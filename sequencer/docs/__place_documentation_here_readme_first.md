@@ -16,3 +16,5 @@
 
  - *dark_mode*: <i>Unknown</i> let the operating system decide
 
+
+<!-- Auto-update: 2025-10-18T13:04:44.967273 -->
